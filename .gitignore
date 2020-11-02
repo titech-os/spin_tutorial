@@ -1,0 +1,10 @@
+pan
+pan.*
+*.o
+*.trail
+*.tmp
+
+*~
+.DS_Store
+
+
